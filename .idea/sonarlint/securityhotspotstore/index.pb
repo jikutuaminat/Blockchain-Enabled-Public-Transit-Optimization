@@ -9,3 +9,7 @@ R
 "contracts/schedule-adjustment.clar,f/a/faec02ccf66a0a12a626f8a27dd87c36f5ee70e6
 Q
 !tests/schedule-adjustment.test.ts,e/a/eac8fe1f2e562930b97f0c2b43d510a278a7c204
+Q
+!contracts/ridership-tracking.clar,e/a/eac3a4743795241aeccfdbb1053b24363d46a9e1
+P
+ tests/ridership-tracking.test.ts,c/7/c73251a076b8cfe47bd2680e6d0f54314a43cbb1
